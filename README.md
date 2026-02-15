@@ -95,8 +95,8 @@ https://github.com/user-attachments/assets/f0917692-7af0-4a94-98b6-ff35a616ed93
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/PUMA.git
-cd PUMA
+git clone https://github.com/your-username/PRISM.git
+cd PRISM
 ```
 
 ### 2. 🚀 Development Mode (Recommended)
@@ -140,7 +140,7 @@ See [TCS34725 Setup Guide](backend/TCS34725_SETUP.md) for complete hardware inte
 ## Project Structure
 
 ```
-PUMA/
+PRISM/
 ├── README.md                    # This file
 ├── .gitignore                   # Git ignore rules
 ├── backend/                     # Node.js/TypeScript Backend
